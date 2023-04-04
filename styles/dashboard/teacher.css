@@ -1,0 +1,47 @@
+.all-students-stats {
+    position: relative;
+    top: 30px;
+    left: 350px;
+    color: #000;
+    background: white;
+    width: 350px;
+    height: 100px;
+    border-radius: 25px;
+}
+
+.all-students-stats-circle {
+    border-radius: 45px;
+    background: #F0F7FF;
+    width: 90px;
+    height: 90px;
+    left: 15px;
+    top: 5px;
+}
+
+.all-students-stats-circle-text {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #000;
+}
+
+.all-students-stats-content-text {
+    position: relative;
+    top: -20px;
+    left: 140px;
+    font-size: 0.9em;
+    font-weight: 400;
+    color: #000;
+}
+
+
+.all-students-stats-content-icon {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #000;
+}
